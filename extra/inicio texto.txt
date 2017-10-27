@@ -1,0 +1,75 @@
+﻿<HTML>
+<HEAD>
+<TITLE> E-LEARNING </TITLE>
+<meta charset= "utf-8"/>
+<link href="https://fonts.googleapis.com/css?family=Hind|Lora|Montaga|Mukta|Nunito|Roboto+Condensed|Roboto+Slab|Sree+Krushnadevaraya" rel="stylesheet"
+ type="text/css" >
+<link rel="Stylesheet"  type="text/css" href="C:\Users\YOMERO\Desktop\Elearn\css1.css">
+</HEAD>
+<BODY> 
+	<header>
+		<h1 class="titulo"> <marquee behavior="alternate" width="50%" direction="right"> E - LEARNING PARA TODOS</marquee></h1>
+		
+		<h2 class="subt">	BIENVENIDOS	</h2>
+			<p class="des">
+				Comenzar a aprender ahora es muy sencillo. Gracias a Internet podemos tomar cursos de muchas cosas, desde cursos matemáticas hasta nuevos idiomas, todo con unos cuantos clics desde el ordenador de nuestra casa, celular o tablet. 
+			</p>
+
+	</header>
+<div class="lista">
+	
+	<figure class="nosotros">
+		<img class="nails" src="C:\Users\YOMERO\Desktop\Elearn\imagenes\nos.png" />
+			<nav>
+				<ul>
+					<li><a href class="links1">COLABORADORES</a></li>
+				</ul>
+			</nav>
+	</figure>
+	<figure class="nosotros">
+		<img  class ="nails" src="C:\Users\YOMERO\Desktop\Elearn\imagenes\tarea.jpg" width="250" height="250">
+			<nav>
+				<ul>
+					<li><a href class="links1">NUESTRO CURSO</a></li>
+				</ul>
+			</nav>	
+	</figure>
+	<figure class="nosotros">
+		<img  class ="nails" src="C:\Users\YOMERO\Desktop\Elearn\imagenes\objetivo.jpg" width="250" height="250">
+			<nav>	
+				<ul>
+					<li><a href class="links1">OBJETIVO</a></li>
+				</ul>
+			</nav>	
+	</figure>
+	
+
+</div>
+
+<div class="logo">
+	<figure >
+		<img  src="C:\Users\YOMERO\Desktop\Elearn\imagenes\itr2.png" width="150" height="150">
+			
+	</figure>
+	<nav class="ref">
+
+		</div>	
+	<ul>
+		<li><a href class="links2">INICIAR SESIÓN</a></li>
+		<br>
+		<br>
+		<li><a href class="links2">REGISTRARSE</a></li>
+		<br>
+		<br>
+		<li><a href class="links2">CONTACTO</a></li>
+		<br>
+		<br>
+
+	</ul>
+
+	</nav>
+
+
+</BODY>
+
+</HTML>

@@ -1,0 +1,121 @@
+@charset "utf-8";
+
+html, body{
+
+	display:flex;
+	width:100%;
+	height:100%;
+	flex-direction:column;
+	
+
+}
+body{
+	
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+	h1{
+	font-size:2rem;
+	font-family: 'Montaga', serif;
+	color: #DD0606;
+	
+}
+
+ul{
+
+	list-style: none;
+}
+
+
+.titulo{
+	text-align: center;
+	weight: 700px;
+	background-color: #75FDFF  ;
+
+}
+.subt{
+
+	font-family: 'Roboto Slab', serif;
+	font-size: 1.5rem;
+	color: #9B5C00;
+	text-align: center;
+
+	}
+
+.des{
+	font-family: 'Sree Krushnadevaraya', serif;
+	color: #000000;
+	font-weight: 700px;
+	font-size:1.25rem;
+	border: 20px solid #63AF03;
+	text-align: center;
+	padding: 30px;
+
+
+}
+.lista{
+
+		display: flex;
+		flex-wrap: wrap;
+		justify-content:center;
+		align-items:center;
+}
+.nosotros{
+
+		padding: 50px;
+
+
+}
+.nails {
+
+	padding: 30px;
+	border-width: 3px;
+	border-style: solid;
+	border-color: #FFFFFF;
+}
+.links1{
+	display: inline;
+	text-decoration: none;
+	list-style-type: none;
+	font-family:'Lora', serif; 
+	font-weight: 700px;
+	font-size: 1.5rem;
+	color: #FC7600;
+	text-align: center;
+	
+	background-color: #DADADA;
+
+
+}
+.logo{
+
+	display: inline-block;
+	flex-wrap: wrap;
+	align-items:left;
+	justify-content:left;
+
+
+
+	
+}
+.links2{
+padding: 10px;
+border-style:none;
+border-width: 2px;
+margin: 7px;
+text-align: left;
+display: inline;
+font-family: 'Nunito', sans-serif;
+font-size: 1.5rem;
+color: #7B00A0 ; 
+text-decoration: none;
+
+list-style: none;
+}
+.nosotros2{
+	
+
+}

@@ -1,0 +1,10 @@
+font-family: 'Mukta', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Roboto Slab', serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Hind', sans-serif;
+font-family: 'Lora', serif;
+font-family: 'Sree Krushnadevaraya', serif;
+font-family: 'Montaga', serif;
+<link href="https://fonts.googleapis.com/css?family=Hind|Lora|Montaga|Mukta|Nunito|Roboto+Condensed|Roboto+Slab|Sree+Krushnadevaraya" rel="stylesheet"
+ type="text/css" >
